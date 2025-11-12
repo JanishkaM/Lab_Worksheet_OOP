@@ -7,6 +7,7 @@ public class Owner {
     public String getOwnerName() {
         return ownerName;
     }
+
     public String getPhoneNo() {
         return phoneNo;
     }
